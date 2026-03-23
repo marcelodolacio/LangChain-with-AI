@@ -2,6 +2,8 @@
 
 Demonstration of **prompt engineering** with LangChain using structured outputs and conditional edges to generate high-quality technical articles through multiple AI agents reviewing each other.
 
+<img width="1346" height="893" alt="image" src="https://github.com/user-attachments/assets/4423ae96-4f6d-4825-a273-76a01d989f15" />
+
 ## 🎯 Goals
 
 This project exemplifies:
